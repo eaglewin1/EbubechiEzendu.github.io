@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+  <div>
+    <!--name-->
+    <h1 data-testid="slack name">Ebubechi Ezendu!</h1>
+    <!--picture-->
+  <img src="slack/IMG-20220508-WA0000.jpg"width="200" height="150" alt="Ebubechi Ezendu" data-testid="slackDisplay">
+  <!--weekday-->
+ <p data-testid = "currentDayofTheWeek">Sunday</p>
+ <!--Time-->
+ <p data-testid="currentUTCTime">1694357043816</p>
+ <!--Track-->
+ <p data-testid="myTrack">Frontend</p>
+ <p><a href="https://github.com/EbubechiEzendu/your-repo" data-testid="githubURL">GitHub Repository</a></p>
+</body>
+</html>
+ </div>
+
+
